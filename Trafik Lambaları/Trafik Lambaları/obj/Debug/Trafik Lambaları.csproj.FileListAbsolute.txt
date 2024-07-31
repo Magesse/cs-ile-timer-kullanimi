@@ -1,0 +1,10 @@
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.exe.config
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.exe
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.pdb
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.AssemblyReference.cache
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik_Lambaları.Form1.resources
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik_Lambaları.Properties.Resources.resources
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.GenerateResource.cache
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.CoreCompileInputs.cache
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.exe
+C:\Users\cront\OneDrive\Masaüstü\ONLY C#\Okul\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.pdb
